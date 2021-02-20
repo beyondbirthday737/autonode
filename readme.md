@@ -10,7 +10,11 @@ Uma ferramenta para automatizar a criação de projetos em node.js.
 
 ## Comandos
 * autonode genexp -> Este comando irá gerar uma estrutura de projeto em express.js
-# License
 
+## Avisos
+* Irá ser adicionado mais comandos para automatização de outras bibliotecas/frameworks
+
+
+# License
 MIT - see LICENSE
 
