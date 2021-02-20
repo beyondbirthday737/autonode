@@ -1,23 +1,12 @@
 # autonode CLI
 
-A CLI for autonode.
+Uma ferramenta para automatizar a criação de projetos em node.js.
 
-## Customizing your CLI
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
-
-## Publishing to NPM
-
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
+## tutorial
+1) Clone esse repositório 
+2) Entre na pasta do projeto
+3) npm link
 
 # License
 
