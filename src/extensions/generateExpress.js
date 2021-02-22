@@ -19,7 +19,6 @@ module.exports = (toolbox) => {
             target: `${folder}/routes.js`
         })
 
-        // generate app folder
         await generateSubfolder('app', 'controllers', 'index.js')
         await generateSubfolder('app', 'middlewares', 'index.js')
         await generateSubfolder('app', 'models', 'index.js')
