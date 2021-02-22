@@ -6,12 +6,12 @@
       const {
         parameters,
         generateExpress,
-        print: { info },
+        print: { info , sucess},
       } = toolbox
   
       await generateExpress('src/')
   
-      info(`Generated`)
+      sucess(`Generated`)
     },
   }
   

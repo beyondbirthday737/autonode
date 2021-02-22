@@ -7,7 +7,6 @@ module.exports = (toolbox) => {
                     template: `${file}.ejs`,
                     target: `${folder}/${subfolder}/${subfolder2}/${file}`
                 })
-
         }
 
         await template.generate({
